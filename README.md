@@ -111,7 +111,6 @@ Unlike global platforms, Navvik is deeply **India-first** in both spirit and des
 
 ### 🛠️ Steps
 
-```bash
 # 1. Clone the Repository
 git clone https://github.com/navvik/navvik.git
 cd navvik
