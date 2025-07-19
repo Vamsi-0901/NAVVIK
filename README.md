@@ -1,4 +1,4 @@
-# 🌏 Navvik: Navigate India, the Indian Way
+# 🌏 Naavik: Navigate India, the Indian Way
 
 **Welcome to Navvik**, a revolutionary India-centric navigation platform redefining how travelers explore the vibrant tapestry of India’s roads—from festival-packed cities to serene rural paths.
 
@@ -95,7 +95,7 @@ Unlike global platforms, Navvik is deeply **India-first** in both spirit and des
 - **Font Awesome** – Custom icons
 
 ### Backend
-- **Node.js** with Express
+- **FastAPI**
 - **Data Sources**: Bhuvan API, Indian Festival Calendar API, Real-time traffic APIs
 - **Algorithms**: T-GCN for congestion prediction
 - **Dev Tools**: Git, VS Code, Webpack
@@ -104,10 +104,6 @@ Unlike global platforms, Navvik is deeply **India-first** in both spirit and des
 
 ## ⚙️ Installation
 
-### 📦 Prerequisites
-- Node.js v14.x+
-- npm v6.x+
-- Git
 
 ### 🛠️ Steps
 
@@ -190,11 +186,10 @@ Please follow our Code of Conduct and Contributing Guidelines.
 Navvik is open-sourced under the MIT License.
 
 📬 Contact & Support
-Email: support@navvik.com
+Email:vkdasari1779@gmail.com/rudramishrassd.2635@gmail.com
+Website:rudramishra.netlify.app 
 
-Website: https://navvik.com
-
-Socials: X (Twitter), Facebook, Instagram
+Socials: 
 
 Need Help?
 Open an issue on GitHub
